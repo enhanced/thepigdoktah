@@ -1,4 +1,4 @@
-The Pig Doktah!
+![pigs-on-couches](https://github.com/enhanced/thepigdoktah/blob/master/pigdoktah.png) The Pig Doktah!
 
 Tool for parsing and generating usable information from snort performance metric output.
 
