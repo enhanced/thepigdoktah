@@ -4,11 +4,31 @@ Tool for parsing and generating usable information from snort performance metric
 
 This is still a largely undevelopped project, expect to see some movement though, should there be interest.
 
+Arguments etc..
+
+```
+-= Tha Pig Doktah 0.1 Dev =-
+Copyright (C) 2010-2017 JJ Cummings
+
+./thepigdoktah.pl -r <path to perfmonfile>
+
+    -r Specify the full path to the snort perfmon file
+    -p Enable PDF output
+    -w Writefile path (where we write the output files to!)
+    -g Graph time length (in minutes)
+    -h Enable HTML output
+    -s Enable stdout output
+    -d Dump all calculated hash key values to stdout!
+    -v Enable verbose stdout output
+    -V Show version
+    -?|help Show this help
+```
+
 Current sample output:
 ```
 -= Tha Pig Doktah 0.1 Dev =-
 
-Copyright (C) 2010 JJ Cummings
+Copyright (C) 2010-2017 JJ Cummings
 
 
 
